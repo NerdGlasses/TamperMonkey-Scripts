@@ -29,6 +29,6 @@
 
 /*Makes the buttons text white*/
     GM_addStyle('.btn, .btn * {color: #ffffff !important; }');
-
+/*using nano hehe France is in the finals and theyll win*/
     // Your code here...
 })();
